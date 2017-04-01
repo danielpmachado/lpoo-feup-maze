@@ -1,0 +1,5 @@
+cli
+gui
+logic
+org.eclipse.wb.swing
+test
